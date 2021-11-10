@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine Learning projects.
+Amy Jung's Machine Learning projects.
