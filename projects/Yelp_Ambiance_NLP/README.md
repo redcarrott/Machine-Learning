@@ -4,15 +4,15 @@ Amy Jung, Angela Guan, Jeremy Yeung
 
 We seek to improve Yelp searches by populating attribute values based off reviews. 
 
-[Final Paper](https://github.com/guanangela/w266_yelp_ambiance/blob/main/Final%20Paper.pdf)
+[Final Paper](https://github.com/redcarrott/Machine-Learning/blob/main/projects/Yelp_Ambiance_NLP/Final%20Paper.pdf)
 
 [Dataset](https://www.yelp.com/dataset/)
 
 Notebooks:
-- [Data Preprocessing](https://github.com/guanangela/w266_yelp_ambiance/blob/main/Yelp%20Dataset%20Processing.ipynb)
-- [Attribute Name Clustering](https://github.com/guanangela/w266_yelp_ambiance/blob/main/Clustering.ipynb)
-- [Attribute Co-occurrence Matrix](https://github.com/guanangela/w266_yelp_ambiance/blob/main/Attribute%20Co%20Occurrence%20Matrix.ipynb)
-- [Create Concatenated Review Table for Models](https://github.com/guanangela/w266_yelp_ambiance/blob/main/create_attribute_df.ipynb)
-- [Baseline Models](https://github.com/guanangela/w266_yelp_ambiance/blob/main/NaiveBayes_LogisticRegression.ipynb)
-- [BERT Models](https://github.com/guanangela/w266_yelp_ambiance/blob/main/BERT_models.ipynb)
-- [CNN Models](https://github.com/guanangela/w266_yelp_ambiance/blob/main/Attribute_CNN.ipynb)
+- [Data Preprocessing](https://github.com/redcarrott/Machine-Learning/blob/main/projects/Yelp_Ambiance_NLP/Yelp%20Dataset%20Processing.ipynb)
+- [Attribute Name Clustering](https://github.com/redcarrott/Machine-Learning/blob/main/projects/Yelp_Ambiance_NLP/Clustering.ipynb)
+- [Attribute Co-occurrence Matrix](https://github.com/redcarrott/Machine-Learning/blob/main/projects/Yelp_Ambiance_NLP/Attribute%20Co%20Occurrence%20Matrix.ipynb)
+- [Create Concatenated Review Table for Models](https://github.com/redcarrott/Machine-Learning/blob/main/projects/Yelp_Ambiance_NLP/create_attribute_df.ipynb)
+- [Baseline Models](https://github.com/redcarrott/Machine-Learning/blob/main/projects/Yelp_Ambiance_NLP/NaiveBayes_LogisticRegression.ipynb)
+- [BERT Models](https://github.com/redcarrott/Machine-Learning/blob/main/projects/Yelp_Ambiance_NLP/BERT_models.ipynb)
+- [CNN Models](https://github.com/redcarrott/Machine-Learning/blob/main/projects/Yelp_Ambiance_NLP/Attribute_CNN.ipynb)
